@@ -1,0 +1,4 @@
+github_branch_protection:
+  organization: # OPTIONAL keyword
+    amount_of_required_reviews: 1
+    protected_branches: []
